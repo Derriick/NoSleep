@@ -1,0 +1,17 @@
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.csproj.AssemblyReference.cache
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.Properties.Resources.resources
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.csproj.GenerateResource.cache
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.AssemblyInfoInputs.cache
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.AssemblyInfo.cs
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.csproj.CoreCompileInputs.cache
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\bin\Debug\net6.0-windows\NoSleep.exe
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\bin\Debug\net6.0-windows\NoSleep.deps.json
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\bin\Debug\net6.0-windows\NoSleep.runtimeconfig.json
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\bin\Debug\net6.0-windows\NoSleep.dll
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\bin\Debug\net6.0-windows\NoSleep.pdb
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.dll
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\refint\NoSleep.dll
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.pdb
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\NoSleep.genruntimeconfig.cache
+C:\Users\koebpi1\source\repos\NoSleep\Sources\NoSleep\obj\Debug\net6.0-windows\ref\NoSleep.dll
